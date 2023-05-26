@@ -1,16 +1,14 @@
-### Hi there 👋
+<table align="center" style="display: inline-table">
+	<tr>
+		<td valign="top" style="border: none; padding: 0px 5px 0px 0px;">
+			<img src="https://github-readme-stats.vercel.app/api?username=mdevaev&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave&hide_border=true"/>
+		</td>
+		<td valign="top" style="border: none; padding: 0px 0px 0px 5px;">
+			<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdevaev&theme=synthwave&hide_border=true"/>
+		</td>
+	</tr>
+</table>
 
-<!--
-**mdevaev/mdevaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is M Devaev, I'm a software engineer, an Open Source enthusiast and the creator of the [PiKVM Project](https://github.com/pikvm).
