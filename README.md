@@ -12,4 +12,4 @@
 
 ### Hello!
 
-My name is M Devaev, I'm a software engineer, an Open Source enthusiast and the creator of the [PiKVM Project](https://github.com/pikvm).
+My name is M Devaev, I'm a software engineer, an Open Source enthusiast and creator of the [PiKVM Project](https://github.com/pikvm).
